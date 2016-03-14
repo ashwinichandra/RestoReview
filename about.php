@@ -38,7 +38,7 @@ p{
         <div id="about">
             
             <h4>Resto Review makes life easy for food lover to get the latest reviews on 
-            restaurants, cafes, pubs and bakeries.
+            restaurants, cafes, pubs and bakeries. And we are the Best!
         </br></br>
             <p><img src="images/pizzaabout.jpg" alt="pizzaabout"></br></br></p>
         
